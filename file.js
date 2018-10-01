@@ -7,7 +7,6 @@
 
             <script>
                 alert( 'Goodbye Worldzzzzzz' );
-  </script>
 
             <p>...After the script.</p>
             hiihihihi qqwe q
