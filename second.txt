@@ -1,0 +1,2 @@
+ECHO is on.
+this is a part of second git assignment
