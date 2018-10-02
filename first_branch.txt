@@ -1,0 +1,1 @@
+So this is a new file added in Exercise 2.2 to have a change with the new branch.
