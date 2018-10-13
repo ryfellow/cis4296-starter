@@ -1,0 +1,16 @@
+
+
+package newfile2;
+
+public class NewFile2 {
+
+	public static void main(String[] args) throws InterruptedException {
+		System.out.println("Hello, World!");
+		System.out.println("This is New File 2.");
+		System.out.println("This is in the branch called newBranch.");
+		Thread.sleep(5000);
+		System.out.println("Goodbye, World!");
+	}
+    
+}
+
