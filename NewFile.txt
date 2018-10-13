@@ -1,0 +1,13 @@
+
+package newfile;
+
+public class newFile {
+
+    public static void main(String[] args) throws InterruptedException {
+           System.out.println("Hello, World!");
+	  Thread.sleep(5000);
+	  System.out.println("Goodbye, World!");
+    }
+    
+}
+
