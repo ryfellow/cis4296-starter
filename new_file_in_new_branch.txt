@@ -1,0 +1,2 @@
+This is a new file in new_branch branch.
+This is interesting!
