@@ -1,0 +1,4 @@
+Hello Git,
+
+this is my first commit
+with a few changes
