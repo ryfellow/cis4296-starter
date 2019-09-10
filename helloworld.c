@@ -5,7 +5,8 @@ int main(){
 
 puts("Hello World");
 puts("Bradley Juma");
-return 1;
+puts("Github terminal is pretty COOL");
 
+return 1;
 
 }
