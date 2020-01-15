@@ -1,0 +1,3 @@
+These are my changes to the file create in the new branch for HW2.
+
+-Jared Gross 1/15/20
