@@ -1,0 +1,3 @@
+This is my change to the file for exercise 1.2
+
+-Jared Gross 1/15/20
