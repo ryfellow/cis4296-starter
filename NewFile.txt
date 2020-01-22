@@ -1,0 +1,2 @@
+This is the first file that I will add to GitHub.
+This file is for lab 2 for course CIS-3296.
