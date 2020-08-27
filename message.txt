@@ -1,0 +1,5 @@
+Hello my name is John Murray
+This is a file for Software Design, lab #1.
+Message text message text
+Goodbye
+
