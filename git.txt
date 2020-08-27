@@ -1,0 +1,3 @@
+This is a text file
+It was created by Gerald Barry Whitters III
+This is an assignment for CIS 3296: Software Design at Temple University
