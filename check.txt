@@ -1,0 +1,3 @@
+CIS 3296 Software design
+CIS 4345 Cloud computing
+CIS 3605 Introduction to artificial intelliegence
