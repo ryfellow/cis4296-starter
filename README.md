@@ -1,4 +1,6 @@
 # Project Abstract:
+![diagram](https://user-images.githubusercontent.com/70305543/108156565-e693d300-70ae-11eb-94fc-6bbf9a57a80f.png)
+
 
 The library management system is an open-source project and is designed based on the characteristics of JAVA object-oriented programming. The library management system can complete the basic functions of borrowing and returning books. There are four important classes in this project:
 
