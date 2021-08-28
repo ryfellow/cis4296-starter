@@ -1,0 +1,3 @@
+
+My name is Sameera Rachakonda, and this is my first homework for CIS 3296.
+This homework is about how to use Git.
