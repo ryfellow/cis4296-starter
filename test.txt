@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<p>Just a plain paragraph 1: to test add and commit</p>
