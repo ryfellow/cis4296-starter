@@ -1,0 +1,4 @@
+""
+hello world!
+today i'm using learning command line git
+ssh key was a big pain for while but once I got that working it was not a big deal 
