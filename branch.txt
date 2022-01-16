@@ -1,0 +1,2 @@
+This text should only appear in branch1
+Now it should appear in the master
