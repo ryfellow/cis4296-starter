@@ -204,3 +204,4 @@ public class AsciiArt {
     System.out.println("|");   
 	}
 }
+// Add a new line to test commit msg
