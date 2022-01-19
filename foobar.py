@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("bazz quux")
+print("bazz quux: An odyssey")
