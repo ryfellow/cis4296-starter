@@ -1,0 +1,3 @@
+This is a text file for GitHW1. This should be in the folder of the repo that was cloned.
+
+I am now making an edit to the file.
