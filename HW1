@@ -1,0 +1,7 @@
+touch [* new file name with extension*]  //create a new file
+git add [**file with extension e.g. (file.js)**]  //add that new file for staging 
+git status //check the status
+git add –p //go through each of the changes 
+git commit –m “your message”  //commit these changes
+git push //push these changes
+git push --set-upstream origin [**your branch name**]
