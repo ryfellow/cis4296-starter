@@ -3,3 +3,11 @@ say that we edited/ made changes to said file.
 
 This is the first change in this file
 This is just for some extra practice.
+
+This is the second change in this file.
+This time instead of yes or "y" I'll answer
+"n" or no.
+
+I didn't stage the other section that was
+add and therefor no changes were made.
+I think I got the hang of it a little.
