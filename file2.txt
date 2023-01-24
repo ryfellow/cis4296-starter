@@ -1,1 +1,3 @@
 Hi this is newbie
+
+Added new line
