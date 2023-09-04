@@ -1,0 +1,4 @@
+int main(){
+    printf("Hello World!"); //prints out hello world
+    printf("How are you?");
+}
