@@ -1,0 +1,5 @@
+Class: CIS 3296
+Assignment 2: tool for code management 
+name: Preet Bhoiwala
+Major: Computer Science (Senior)
+To do: make some changes in this file like adding content 
