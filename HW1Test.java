@@ -8,6 +8,7 @@ public class HW1Test
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello World!");
+        HW2BranchTest A1 = new HW2BranchTest();
+        System.out.println(A1.helloMessage());
     }
 }
