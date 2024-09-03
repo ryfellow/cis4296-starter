@@ -1,0 +1,2 @@
+"This is some text in a file."
+"Now I have added some more text."
