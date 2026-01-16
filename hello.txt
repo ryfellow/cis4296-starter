@@ -1,0 +1,5 @@
+First edit of file
+Hello!
+
+Second edit of file
+Hello again!
