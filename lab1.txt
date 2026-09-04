@@ -1,0 +1,2 @@
+Adding edit for git add -p
+Second edit
