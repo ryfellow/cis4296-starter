@@ -1,0 +1,2 @@
+This is my first Git homework.
+My name is Mamuka Kvezereli.
